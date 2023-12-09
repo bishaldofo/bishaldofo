@@ -18,10 +18,10 @@
 ## 💻 Reach Out to Me
 <p align="center">
     <a href="mailto:dofobishal@gmail.com" target="_blank">
-      <img height="60" src="https://raw.githubusercontent.com/bishaldofo/bishaldofo/main/gmail.png" />
+      <img height="30" src="https://raw.githubusercontent.com/bishaldofo/bishaldofo/main/gmail.png" />
     </a>
     <a href="https://www.linkedin.com/in/bishaldofo/" target="_blank">
-      <img height="60" src="https://raw.githubusercontent.com/bishaldofo/bishaldofo/main/LinkedIn_logo_initials.png.png" />
+      <img height="30" src="https://raw.githubusercontent.com/bishaldofo/bishaldofo/main/LinkedIn_logo_initials.png.png" />
     </a>
 </p>
 

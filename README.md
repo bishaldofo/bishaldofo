@@ -15,6 +15,18 @@
     <img src="https://skillicons.dev/icons?i=git,github,firebase,mongodb,express,nodejs,netlify,vercel,vite,vscode" />
 </p>
 
+## 💻 Reach Out to Me
+<p align="center">
+    <a href="mailto:dofobishal@gmail.com">
+      <img src="https://raw.githubusercontent.com/bishaldofo/bishaldofo/main/gmail.png" />
+    </a>
+</p>
+<p align="center">
+    <a href="https://www.linkedin.com/in/bishaldofo/">
+      <img src="https://raw.githubusercontent.com/bishaldofo/bishaldofo/main/LinkedIn_logo_initials.png.png" />
+    </a>
+</p>
+
 ## 👀 Current Overview
 - 🔭 I’m currently working on Marketplace
 - 🌱 I’m currently learning Javascript

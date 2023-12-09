@@ -13,6 +13,7 @@
     <img src="https://skillicons.dev/icons?i=git,github,firebase,mongodb,express,nodejs,netlify,vercel,vite,vscode" />
 </p>
 
+## 👀 Overview
 - 🔭 I’m currently working on Marketplace
 - 🌱 I’m currently learning Javascript
 - 👯 I’m looking to collaborate on GitHub

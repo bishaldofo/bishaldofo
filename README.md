@@ -24,6 +24,7 @@
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/bishaldofo)
 
 ## ⚡ My Projects
+
 ### Booking Room
 
 - Responsive website
@@ -32,6 +33,15 @@
 - Server-side Nodejs, MongoDB, Express js
 
 [Live site](https://www.example.com)    [Client git repo](https://github.com/bishaldofo/booknook)    [Server git repo](https://github.com/bishaldofo/booknook-server)
+
+### Eccomerce
+
+- Responsive website
+- Use Tailwind, Daisy UI, React
+- Firebase authentication with Google login
+- Server-side Nodejs, MongoDB, Express js
+
+[Live site](https://65744962836c4c4b0b533ac8--vermillion-concha-ba9fa1.netlify.app/)    [Client git repo](https://github.com/bishaldofo/fashion-and-apparel)    [Server git repo](https://github.com/bishaldofo/fashion-and-apparel-server)
 
 ### Event Management
 

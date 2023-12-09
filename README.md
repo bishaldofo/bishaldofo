@@ -14,7 +14,5 @@
 
 ## 💻 Skills
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,html,css,materialui,tailwind,jquery,js,react,firebase,mongodb,netlify,vercel,vite,vscode,wordpress" />
-  </a>
 </p>

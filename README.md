@@ -25,10 +25,19 @@
 
 ## ⚡ My Projects
 ### Booking Room
-- I’m currently working on Marketplace
-- I’m currently learning Javascript
-- I’m looking to collaborate on GitHub
-- I’m looking for help with Web Development
-- Ask me about Web Development
+
+- Responsive website
+- Use Tailwind, Daisy UI, React
+- Firebase authentication with Google login
+- Server-side Nodejs, MongoDB, Express js
+
+[Live site](https://www.example.com)    [Client git repo](https://github.com/bishaldofo/booknook)    [Server git repo](https://github.com/bishaldofo/booknook-server)
+
+### Booking Room
+
+- Responsive website
+- Use Tailwind, Daisy UI, React
+- Firebase authentication with Google login
+- Server-side Nodejs, MongoDB, Express js
 
 [Live site](https://www.example.com)    [Client git repo](https://github.com/bishaldofo/booknook)    [Server git repo](https://github.com/bishaldofo/booknook-server)

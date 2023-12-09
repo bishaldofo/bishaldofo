@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/bishaldofo/bishaldofo/main/banner.png" alt="GitHub Streak">
+  <img width="100%" src="https://raw.githubusercontent.com/bishaldofo/bishaldofo/main/1.png" alt="GitHub Streak">
 </p>
 
 ## 📊 Current Stats
@@ -22,3 +22,6 @@
 - 🤔 I’m looking for help with Web Development
 - 💬 Ask me about Web Development
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/bishaldofo)
+
+## ⚡ My Project
+### 

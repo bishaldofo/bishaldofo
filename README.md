@@ -9,7 +9,12 @@
 
 ## 📊 Current Stats
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=bishaldofo&theme=chartreuse-dark&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=bishaldofo&theme=chartreuse-dark&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak">
+</p>
+
+## 💻 Skills
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,materialui,tailwind,jquery,js,react,firebase,mongodb,netlify,vercel,vite,vscode,wordpress" />
   </a>
 </p>

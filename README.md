@@ -33,11 +33,10 @@
 
 [Live site](https://www.example.com)    [Client git repo](https://github.com/bishaldofo/booknook)    [Server git repo](https://github.com/bishaldofo/booknook-server)
 
-### Booking Room
+### Event Management
 
 - Responsive website
 - Use Tailwind, Daisy UI, React
 - Firebase authentication with Google login
-- Server-side Nodejs, MongoDB, Express js
 
-[Live site](https://www.example.com)    [Client git repo](https://github.com/bishaldofo/booknook)    [Server git repo](https://github.com/bishaldofo/booknook-server)
+[Live site](https://gala-party-hub.web.app/)    [Client git repo](https://github.com/bishaldofo/gala-party-hub)

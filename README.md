@@ -1,7 +1,7 @@
 ![alt text](https://raw.githubusercontent.com/bishaldofo/bishaldofo/main/banner-git.jpg)
 
 ## 📊 Current Stats
-<p align="center">
+<p align="center" width="100%">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=bishaldofo&theme=chartreuse-dark&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak">
 </p>
 

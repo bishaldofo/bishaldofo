@@ -4,7 +4,7 @@
 
 ## 📊 Current Stats
 <p align="center">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bishaldofo&theme=chartreuse-dark&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=bishaldofo&theme=react&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </p>
 
 ## 💻 My Skills are

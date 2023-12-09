@@ -1,8 +1,4 @@
-### Hi there 👋
-
-**bishaldofo/bishaldofo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+![alt text](https://media.licdn.com/dms/image/D5616AQFO4WS3l_W4gA/profile-displaybackgroundimage-shrink_350_1400/0/1684094906130?e=1707350400&v=beta&t=qIEfC2L0D38pORZCNTWdm0IX4b9VprleAqUd0DsG5YU)
 
 - 🔭 I’m currently working on HTML, CSS, Tailwind, React
 - 🌱 I’m currently learning Javascript

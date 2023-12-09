@@ -14,8 +14,8 @@
 
 ## 💻 My Skills are
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,materialui,tailwind,jquery,js,react,wordpress" />
+    <img src="https://skillicons.dev/icons?i=html,css,materialui,tailwind,bootstrap,jquery,js,react,wordpress" />
 </p>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,firebase,mongodb,netlify,vercel,vite,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,github,firebase,mongodb,express,nodejs,netlify,vercel,vite,vscode" />
 </p>

@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/bishaldofo/bishaldofo/main/banner-git.jpg" alt="GitHub Streak">
+  <img width="100%" src="https://raw.githubusercontent.com/bishaldofo/bishaldofo/main/banner.png" alt="GitHub Streak">
 </p>
 
 ## 📊 Current Stats

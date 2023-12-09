@@ -13,7 +13,7 @@
     <img src="https://skillicons.dev/icons?i=git,github,firebase,mongodb,express,nodejs,netlify,vercel,vite,vscode" />
 </p>
 
-- 🔭 I’m currently working on HTML, CSS, Tailwind, React
+- 🔭 I’m currently working on Marketplace
 - 🌱 I’m currently learning Javascript
 - 👯 I’m looking to collaborate on GitHub
 - 🤔 I’m looking for help with Web Development

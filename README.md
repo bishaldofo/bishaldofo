@@ -15,7 +15,7 @@
     <img src="https://skillicons.dev/icons?i=git,github,firebase,mongodb,express,nodejs,netlify,vercel,vite,vscode" />
 </p>
 
-## 💻 Reach Out to Me
+## ✉ Reach Out to Me
 <p align="center">
     <a href="mailto:dofobishal@gmail.com" target="_blank">
       <img height="30" src="https://raw.githubusercontent.com/bishaldofo/bishaldofo/main/gmail.png" />

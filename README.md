@@ -9,6 +9,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on GitHub
 - 🤔 I’m looking for help with Web Development
 - 💬 Ask me about Web Development
-- 📫 How to reach me: Linkedin
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/bishaldofo)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bishaldofo&theme=chartreuse-dark&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)

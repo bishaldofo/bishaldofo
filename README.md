@@ -15,7 +15,7 @@
     <img src="https://skillicons.dev/icons?i=git,github,firebase,mongodb,express,nodejs,netlify,vercel,vite,vscode" />
 </p>
 
-## 👀 Overview
+## 👀 Current Overview
 - 🔭 I’m currently working on Marketplace
 - 🌱 I’m currently learning Javascript
 - 👯 I’m looking to collaborate on GitHub
@@ -23,5 +23,5 @@
 - 💬 Ask me about Web Development
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/bishaldofo)
 
-## ⚡ My Project
+## ⚡ My Projects
 ### 

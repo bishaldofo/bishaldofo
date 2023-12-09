@@ -1,8 +1,8 @@
 ![alt text](https://raw.githubusercontent.com/bishaldofo/bishaldofo/main/banner-git.jpg)
 
 ## 📊 Current Stats
-<p align="center" width="100%">
-  <img src="https://raw.githubusercontent.com/bishaldofo/bishaldofo/main/banner-git.jpg" alt="GitHub Streak">
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/bishaldofo/bishaldofo/main/banner-git.jpg" alt="GitHub Streak">
 </p>
 
 ## 💻 My Skills are

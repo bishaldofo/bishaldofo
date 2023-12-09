@@ -7,5 +7,5 @@
 - 💬 Ask me about Web Development
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/bishaldofo)
 
-📊 ##Current Stats <br>
+📊 <h2>Current Stats</h2>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bishaldofo&theme=chartreuse-dark&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)

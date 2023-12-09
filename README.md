@@ -12,7 +12,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=bishaldofo&theme=chartreuse-dark&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak">
 </p>
 
-## 💻 Skills
+## 💻 My Skills are
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,html,css,materialui,tailwind,jquery,js,react,firebase,mongodb,netlify,vercel,vite,vscode,wordpress" />
+    <img src="https://skillicons.dev/icons?i=html,css,materialui,tailwind,jquery,js,react,wordpress" />
+</p>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=git,github,firebase,mongodb,netlify,vercel,vite,vscode" />
 </p>

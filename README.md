@@ -7,17 +7,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=bishaldofo&theme=react&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bishaldofo&theme=blueberry" />
-</p>
-
-<div align="center">
-  <p>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bishaldofo&theme=blueberry" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bishaldofo&theme=blueberry" />
-  </p>
-</div>
-
 ## 💻 My Skills are
 <p align="center">
     <img src="https://skillicons.dev/icons?i=html,css,materialui,tailwind,bootstrap,jquery,js,react,wordpress" />
@@ -33,6 +22,18 @@
 - 🤔 I’m looking for help with Web Development
 - 💬 Ask me about Web Development
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/bishaldofo)
+
+## 🏴 GitHub Profile Stats
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bishaldofo&theme=blueberry" />
+</p>
+
+<div align="center">
+  <p>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bishaldofo&theme=blueberry" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bishaldofo&theme=blueberry" />
+  </p>
+</div>
 
 ## ✉ Reach Out to Me
 <p align="center">

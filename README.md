@@ -54,7 +54,7 @@
 - Firebase authentication with Google login
 - Server-side Nodejs, MongoDB, Express js
 
-[Live site](https://www.example.com)    [Client git repo](https://github.com/bishaldofo/booknook)    [Server git repo](https://github.com/bishaldofo/booknook-server)
+[Live site](https://booknook-client.web.app/)    [Client git repo](https://github.com/bishaldofo/booknook)    [Server git repo](https://github.com/bishaldofo/booknook-server)
 
 ### Eccomerce
 

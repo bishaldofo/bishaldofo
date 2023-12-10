@@ -27,7 +27,7 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bishaldofo&theme=blueberry" />
 </p>
 
-<div>
+<div align="center">
   <p>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bishaldofo&theme=blueberry" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bishaldofo&theme=blueberry" />

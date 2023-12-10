@@ -23,6 +23,8 @@
 - 💬 Ask me about Web Development
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/bishaldofo)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bishaldofo&theme=blueberry)
+
 ## ✉ Reach Out to Me
 <p align="center">
     <a href="mailto:dofobishal@gmail.com" target="_blank">

@@ -24,7 +24,7 @@
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/bishaldofo)
 
 <p align="center">
-  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bishaldofo&theme=blueberry" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bishaldofo&theme=blueberry" />
 </p>
 
 <div>
@@ -34,11 +34,6 @@
   </p>
 </div>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bishaldofo&theme=blueberry)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bishaldofo&theme=blueberry)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bishaldofo&theme=blueberry)
 
 ## ✉ Reach Out to Me
 <p align="center">
